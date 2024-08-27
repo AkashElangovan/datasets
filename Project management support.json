@@ -8,7 +8,7 @@
     "output": "Design Thinking is a problem-solving approach that focuses on empathy, experimentation, and iteration. Here's how we can apply it in our Agile project: 1. Empathize with the users by conducting user research and creating user personas. 2. Define the problem statement based on user needs and insights. 3. Ideate solutions by brainstorming and prototyping. 4. Test the solutions with users and gather feedback. 5. Implement the solutions in the Agile project by creating user stories and prioritizing them in the product backlog. 6. Continuously iterate and improve the solutions based on user feedback and data."
   },
   {
-    
+  
     "input": "How can we estimate the effort required for each user story in our Agile project?",
     "output": "There are several estimation techniques you can use in Agile projects, such as Planning Poker, T-shirt sizing, or Expert Judgment. Here's how you can use Planning Poker: 1. Gather the team and explain the user story. 2. Each team member selects a card with a number representing their estimate, without revealing it to others. 3. Once everyone has selected a card, reveal the estimates simultaneously. 4. Discuss the differences in estimates and reach a consensus. 5. Record the estimate in story points or hours, depending on your team's preference. 6. Repeat the process for each user story in the sprint."
   },
